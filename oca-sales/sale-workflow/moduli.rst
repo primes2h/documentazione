@@ -1,0 +1,75 @@
+.. FILE AUTOMATICALLY GENERATED. DO NOT EDIT
+======
+Moduli
+======
+
+.. toctree::
+   :titlesonly:
+
+   moduli/partner_prospect
+   moduli/sale_order_price_recalculation
+   moduli/sale_triple_discount
+   moduli/sale_order_product_recommendation
+   moduli/sale_order_general_discount
+   moduli/sale_milestone_profile_invoicing
+   moduli/sale_order_revision
+   moduli/sale_order_line_description
+   moduli/sale_validity
+   moduli/sale_order_line_price_history
+   moduli/partner_sale_pivot
+   moduli/sale_wishlist
+   moduli/sale_procurement_group_by_commitment_date
+   moduli/sale_shipping_info_helper
+   moduli/sale_start_end_dates
+   moduli/sale_order_line_sequence
+   moduli/sale_last_price_info
+   moduli/sale_order_secondary_unit
+   moduli/sale_stock_return_request
+   moduli/sale_product_multi_add
+   moduli/sale_procurement_group_by_line
+   moduli/sale_stock_picking_note
+   moduli/sale_product_set_variant
+   moduli/sale_blanket_order
+   moduli/sale_fixed_discount
+   moduli/sale_order_digitized_signature
+   moduli/sale_cancel_reason
+   moduli/sale_product_returnable
+   moduli/sale_order_min_qty
+   moduli/product_form_sale_link
+   moduli/sale_invoice_group_method
+   moduli/sale_merge_draft_invoice
+   moduli/sale_stock_delivery_address
+   moduli/sale_invoice_policy
+   moduli/sale_contact_type
+   moduli/sale_tier_validation
+   moduli/sale_invoice_plan
+   moduli/sale_generator
+   moduli/sale_order_type
+   moduli/sale_stock_sourcing_address
+   moduli/sale_mrp_link
+   moduli/partner_contact_sale_info_propagation
+   moduli/sale_commitment_lead_time
+   moduli/sale_commercial_partner
+   moduli/sale_order_invoicing_finished_task
+   moduli/sale_disable_inventory_check
+   moduli/sale_order_archive
+   moduli/sale_automatic_workflow
+   moduli/sale_partner_incoterm
+   moduli/sale_exception
+   moduli/product_supplierinfo_for_customer_sale
+   moduli/sale_order_line_input
+   moduli/sale_force_invoiced
+   moduli/sale_order_lot_selection
+   moduli/sale_stock_secondary_unit
+   moduli/portal_sale_personal_data_only
+   moduli/sales_team_security
+   moduli/sale_discount_display_amount
+   moduli/sale_stock_picking_blocking
+   moduli/sale_isolated_quotation
+   moduli/sale_order_action_invoice_create_hook
+   moduli/sale_order_product_recommendation_secondary_unit
+   moduli/sale_order_line_date
+   moduli/sale_double_validation
+   moduli/sale_automatic_workflow_payment_mode
+   moduli/sale_elaboration
+   moduli/sale_product_set

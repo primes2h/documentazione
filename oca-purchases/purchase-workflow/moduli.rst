@@ -1,0 +1,59 @@
+.. FILE AUTOMATICALLY GENERATED. DO NOT EDIT
+======
+Moduli
+======
+
+.. toctree::
+   :titlesonly:
+
+   moduli/purchase_order_line_deep_sort
+   moduli/purchase_price_recalculation
+   moduli/purchase_order_line_stock_available
+   moduli/purchase_stock_price_unit_sync
+   moduli/purchase_request_order_approved
+   moduli/product_form_purchase_link
+   moduli/purchase_request_product_usage
+   moduli/purchase_order_approved
+   moduli/purchase_picking_state
+   moduli/purchase_analytic_global
+   moduli/product_supplier_code_purchase
+   moduli/purchase_work_acceptance
+   moduli/purchase_deposit
+   moduli/purchase_order_secondary_unit
+   moduli/purchase_order_type
+   moduli/purchase_open_qty
+   moduli/supplier_calendar
+   moduli/purchase_line_procurement_group
+   moduli/purchase_tier_validation
+   moduli/procurement_purchase_no_grouping
+   moduli/purchase_force_invoiced
+   moduli/purchase_request_usage_department
+   moduli/purchase_order_archive
+   moduli/purchase_date_planned_manual
+   moduli/purchase_delivery_split_date
+   moduli/purchase_minimum_amount
+   moduli/purchase_order_analytic_search
+   moduli/purchase_manual_delivery
+   moduli/purchase_quick
+   moduli/purchase_triple_discount
+   moduli/purchase_reception_status
+   moduli/purchase_request
+   moduli/purchase_order_product_recommendation_brand
+   moduli/purchase_request_department
+   moduli/purchase_location_by_line
+   moduli/purchase_order_product_recommendation
+   moduli/purchase_requisition_tier_validation
+   moduli/purchase_order_line_description
+   moduli/purchase_request_tier_validation
+   moduli/purchase_commercial_partner
+   moduli/purchase_order_line_sequence
+   moduli/purchase_discount
+   moduli/purchase_last_price_info
+   moduli/subcontracted_service
+   moduli/purchase_order_approval_block
+   moduli/purchase_order_uninvoiced_amount
+   moduli/purchase_invoice_plan
+   moduli/purchase_reception_notify
+   moduli/purchase_exception
+   moduli/purchase_landed_cost
+   moduli/purchase_product_usage
